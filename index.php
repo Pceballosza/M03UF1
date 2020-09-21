@@ -7,6 +7,8 @@
     <body>
         <?php
         echo "Hola";
+        
+        echo "Adeu fins demà";
         ?>
     </body>
 </html>
