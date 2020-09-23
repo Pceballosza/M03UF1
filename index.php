@@ -9,6 +9,7 @@
         echo "Hola";
         
         echo "Adeu fins demà";
+        echo "Texto del 23/09/20 a las 19:35"
         ?>
     </body>
 </html>
